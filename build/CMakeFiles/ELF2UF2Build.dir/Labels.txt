@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/workspace/build/CMakeFiles/ELF2UF2Build
+/workspace/build/CMakeFiles/ELF2UF2Build.rule
+/workspace/build/CMakeFiles/ELF2UF2Build-complete.rule
+/workspace/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/workspace/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/workspace/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/workspace/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/workspace/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/workspace/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/workspace/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
